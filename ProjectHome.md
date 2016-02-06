@@ -1,0 +1,2 @@
+Le département informatique de l’IUT2 de Grenoble nous propose de réaliser une application client-serveur destinée aux enseignants, aux administratifs et aux étudiants. Cette application
+permettra de gérer les notes et les absences des étudiants.
